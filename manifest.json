@@ -4,10 +4,6 @@
   "name": "ZEFR Pull Request Helper",
   "description": "This extension aids the user in creating a pull requeset per Nick Rotondo's PR Template",
   "version": "0.1",
-  "permissions": [
-    "activeTab",
-    "https://ajax.googleapis.com/"
-  ],
   "content_scripts": [
   {
     "matches": [
