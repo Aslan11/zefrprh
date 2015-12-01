@@ -19,11 +19,18 @@ executeOnLoad( ->
     if not element.value
       element.value = """
       ### Summary
+
       ### Bug Fixes/New Features
+
       ### How to Verify
+
       ### Side Effects
+
       ### Resolves
+
       ### Tests
+
       ### Code Reviewer(s)
+      
       """
 )
