@@ -2,8 +2,6 @@
 (function() {
   var executeOnLoad, isInDOMTree;
 
-  console.log('ZEFR PR HELPER ACTIVE');
-
   isInDOMTree = function() {
     if (document.getElementById('pull_request_body') !== null) {
       return true;
