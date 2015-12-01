@@ -1,9 +1,4 @@
-console.log 'ZEFR PR HELPER ACTIVE'
-
 isInDOMTree = () ->
-  # If the farthest-back ancestor of our node has a "body"
-  # property (that node would be the document itself),
-  # we assume it is in the page's DOM tree.
   if document.getElementById('pull_request_body') isnt null
     return true
   else
