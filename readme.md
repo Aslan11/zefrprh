@@ -7,12 +7,12 @@
 
 ### Installation
 
-As a ZEFR Employee
+##### As a ZEFR Employee
 1. https://chrome.google.com/webstore/detail/zefr-pull-request-helper/ncomhoffoblkllcffmaljjadkpoklfal
 2. Click 'add to chrome'
 3. Smile :)
 
-For Personal Use / Development
+##### For Personal Use / Development
 1. clone repo
 2. go to `chrome://extensions` in your browser
 3. check developer mode
